@@ -1,6 +1,6 @@
  local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "🍞", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "universal Script By ano", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
 	Name = "scripts",
@@ -8,7 +8,7 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-local dors = Window:MakeTab({
+local doors = Window:MakeTab({
 	Name = "doors",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
@@ -37,7 +37,11 @@ Tab:AddTextbox({
 	end
 }) 
 
-
+doors:AddButton({
+	Name = "Remove Screech",
+	Callback = function() 
+  	end    
+})
 
 
 
