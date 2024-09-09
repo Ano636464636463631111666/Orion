@@ -59,7 +59,12 @@ Tab:AddToggle({
       repeat
         local part = workspace:FindFirstChild(targetPartName)
         if part then
-          print("Part was detected in workspace")
+          OrionLib:MakeNotification({
+	Name = "RushMoving Was detected in workspace",
+	Content = "Notification content... what will it say??",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
           isRunning = false
         end
         wait(1)
