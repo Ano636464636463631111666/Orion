@@ -47,31 +47,25 @@ Screech:Destroy()
 })
 
 Tab:AddToggle({
-  Name = "Find Part",
-  Default = false,
-  Callback = function(Value)
-    local workspace = game:GetService("Workspace")
-    local targetPartName = "Part"
-    local isRunning = false
+Name = "Find Part",
+Default = false,
+Callback = function(Value)
+local workspace = game:GetService("Workspace")
+local targetPartName = "Part"
 
-    if Value then
-      isRunning = true
-      repeat
-        local part = workspace:FindFirstChild(targetPartName)
-        if part then
-          OrionLib:MakeNotification({
-	Name = "RushMoving Was detected in workspace",
-	Content = "Notification content... what will it say??",
-	Image = "rbxassetid://4483345998",
-	Time = 5
+while Value do
+local part = workspace:FindFirstChild(targetPartName)
+if part then
+OrionLib:MakeNotification({
+Name = "Part Found!",
+Content = "The part '" .. targetPartName .. "' was detected!",
+Image = "rbxassetid://4483345998", 
+Time = 5
 })
-          isRunning = false
-        end
-        wait(1)
-      until not isRunning
-    end
-  end
+end
+wait(1)
+end
+end
 })
-
 
 OrionLib:Init()
