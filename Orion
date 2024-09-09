@@ -39,11 +39,34 @@ Tab:AddTextbox({
 
 doors:AddButton({
 	Name = "Remove Screech",
-	Callback = function() 
+	Callback = function()  
+local Screech = game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech
+
+Screech:Destroy() 
   	end    
 })
 
+Tab:AddToggle({
+  Name = "Find Part",
+  Default = false,
+  Callback = function(Value)
+    local workspace = game:GetService("Workspace")
+    local targetPartName = "Part"
+    local isRunning = false
 
+    if Value then
+      isRunning = true
+      repeat
+        local part = workspace:FindFirstChild(targetPartName)
+        if part then
+          print("Part was detected in workspace")
+          isRunning = false
+        end
+        wait(1)
+      until not isRunning
+    end
+  end
+})
 
 
 OrionLib:Init()
