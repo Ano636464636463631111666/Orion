@@ -52,20 +52,49 @@ Default = false,
 Callback = function(Value)
 local workspace = game:GetService("Workspace")
 local targetPartName = "Part"
+local partFound = false 
 
 while Value do
 local part = workspace:FindFirstChild(targetPartName)
 if part then
+if not partFound then 
 OrionLib:MakeNotification({
 Name = "Part Found!",
 Content = "The part '" .. targetPartName .. "' was detected!",
-Image = "rbxassetid://4483345998", 
+Image = "rbxassetid://4483345998",
 Time = 5
 })
+partFound = true
+end
+else
+partFound = false
 end
 wait(1)
 end
 end
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 OrionLib:Init()
