@@ -1,0 +1,163 @@
+local function str(t) local s="" for i=1,#t do s=s..string.char(t[i]) end return s end
+
+local a=game:GetService(str({80,108,97,121,101,114,115}))
+local b=game:GetService(str({85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101}))
+local c=game:GetService(str({82,117,110,83,101,114,118,105,99,101}))
+local d=a.LocalPlayer
+local e=workspace.CurrentCamera
+local f=nil
+local g=10
+local h=200
+local i=false
+local j=nil
+local k,l,m,n,o,p,q,r
+local s=false
+local t=Instance.new(str({83,101,108,101,99,116,105,111,110,66,111,120}))
+t.Color3=Color3.fromRGB(0,255,0)
+t.LineThickness=0.08
+t.SurfaceTransparency=1
+t.Adornee=nil
+t.Parent=game:GetService(str({67,111,114,101,71,117,105}))
+t.Name=str({84,101,108,83,101,108,66,111,120})
+local function u()f=nil t.Adornee=nil end
+local function v(w,x,y)if not w or w.Anchored then return end local z=(x-w.Position) local A=z*15 if A.Magnitude>h then A=A.Unit*h end w.AssemblyLinearVelocity=A end
+local function B(w)f=w j=w.Position t.Adornee=w end
+local function C(w)if f==w then u()elseif not w.Anchored then u()B(w)end end
+local function D()
+if d.Backpack:FindFirstChild(str({84,101,108,84,111,111,108})) then return end
+local E=Instance.new(str({84,111,111,108}))
+E.Name=str({84,101,108,101,107,105,110,101,115,105,115})
+E.RequiresHandle=false
+E.CanBeDropped=true
+E.Parent=d.Backpack
+E.Equipped:Connect(function(F)
+if F then
+F.Button1Down:Connect(function()
+local G=F.Target
+if G and G:IsA(str({66,97,115,101,80,97,114,116})) and not G.Anchored then C(G)end
+end)
+end
+local H
+H=b.TouchTapInWorld:Connect(function(I,J)
+if J then return end
+local K=e:ScreenPointToRay(I.X,I.Y)
+local L=RaycastParams.new()
+L.FilterDescendantsInstances={d.Character}
+L.FilterType=Enum.RaycastFilterType.Blacklist
+local M=workspace:Raycast(K.Origin,K.Direction*1000,L)
+if M and M.Instance and M.Instance:IsA(str({66,97,115,101,80,97,114,116})) and not M.Instance.Anchored then C(M.Instance)end
+end)
+E.Unequipped:Connect(function()
+u()
+if H then H:Disconnect()H=nil end
+end)
+end)
+end
+c.Heartbeat:Connect(function(N)
+if f then
+local O=d.Character
+local P=O and O:FindFirstChild(str({72,117,109,97,110,111,105,100,82,111,111,116,80,97,114,116}))
+if not(P and f and f.Parent and not f.Anchored)then u()return end
+local Q
+if i then Q=e.CFrame.Position+e.CFrame.LookVector*g else Q=P.Position+P.CFrame.LookVector*g end
+v(f,Q,N)
+if(f.Position-j).Magnitude>100 then u()return end
+j=f.Position
+end
+end)
+local function R()
+if k then k:Destroy()end
+k=Instance.new(str({83,99,114,101,101,110,71,117,105}))
+k.Name=str({84,101,108,71,85,73})
+k.ResetOnSpawn=false
+k.DisplayOrder=50000
+k.ZIndexBehavior=Enum.ZIndexBehavior.Global
+k.Parent=game:GetService(str({67,111,114,101,71,117,105}))
+l=Instance.new(str({70,114,97,109,101}))
+l.Size=UDim2.new(0.24,0,0.3,0)
+l.Position=UDim2.new(0.02,0,0.1,0)
+l.BackgroundColor3=Color3.fromRGB(127,127,127)
+l.BackgroundTransparency=0.05
+l.BorderColor3=Color3.fromRGB(27,42,53)
+l.BorderSizePixel=1
+l.Active=true
+l.Draggable=true
+l.Parent=k
+m=Instance.new(str({84,101,120,116,76,97,98,101,108}))
+m.Size=UDim2.new(1,0,0.2,0)
+m.Position=UDim2.new(0,0,0,0)
+m.BackgroundColor3=Color3.fromRGB(162,162,162)
+m.Text=str({84,101,108,101,107,105,110,101,115,105,115,32,66,121,32,65,110,111})
+m.TextScaled=true
+m.Font=Enum.Font.Legacy
+m.TextColor3=Color3.fromRGB(27,42,53)
+m.Parent=l
+n=Instance.new(str({84,101,120,116,66,117,116,116,111,110}))
+n.Size=UDim2.new(0.12,0,1,0)
+n.Position=UDim2.new(0.88,0,0,0)
+n.Text=str({86})
+n.TextScaled=true
+n.Font=Enum.Font.Legacy
+n.TextColor3=Color3.fromRGB(27,42,53)
+n.BackgroundColor3=Color3.fromRGB(150,150,150)
+n.Parent=m
+n.MouseButton1Click:Connect(function()
+s=not s
+for _,T in ipairs(l:GetChildren())do if T~=m then T.Visible=not s end end
+if s then
+l.Size=UDim2.new(0.24,0,0.06,0)
+m.Size=UDim2.new(1,0,1,0)
+l.BackgroundTransparency=1
+n.Text=str({60})
+else
+l.Size=UDim2.new(0.24,0,0.3,0)
+m.Size=UDim2.new(1,0,0.2,0)
+l.BackgroundTransparency=0.05
+n.Text=str({86})
+end
+end)
+o=Instance.new(str({84,101,120,116,66,117,116,116,111,110}))
+o.Size=UDim2.new(0.18,0,0.3,0)
+o.Position=UDim2.new(0.08,0,0.25,0)
+o.Text=str({45})
+o.TextScaled=true
+o.Font=Enum.Font.Legacy
+o.TextColor3=Color3.fromRGB(27,42,53)
+o.BackgroundColor3=Color3.fromRGB(160,160,160)
+o.Parent=l
+p=Instance.new(str({84,101,120,116,66,111,120}))
+p.Size=UDim2.new(0.45,0,0.3,0)
+p.Position=UDim2.new(0.28,0,0.25,0)
+p.Text=tostring(g)
+p.Font=Enum.Font.Legacy
+p.TextColor3=Color3.fromRGB(27,42,53)
+p.BackgroundColor3=Color3.fromRGB(159,159,159)
+p.ClearTextOnFocus=true
+p.Parent=l
+q=Instance.new(str({84,101,120,116,66,117,116,116,111,110}))
+q.Size=UDim2.new(0.18,0,0.3,0)
+q.Position=UDim2.new(0.75,0,0.25,0)
+q.Text=str({43})
+q.TextScaled=true
+q.Font=Enum.Font.Legacy
+q.TextColor3=Color3.fromRGB(27,42,53)
+q.BackgroundColor3=Color3.fromRGB(160,160,160)
+q.Parent=l
+r=Instance.new(str({84,101,120,116,66,117,116,116,111,110}))
+r.Size=UDim2.new(0.85,0,0.3,0)
+r.Position=UDim2.new(0.08,0,0.6,0)
+r.Text=str({67,97,109,101,114,97,32,70,111,108,108,111,119,58,32,79,70,70})
+r.TextScaled=true
+r.Font=Enum.Font.Legacy
+r.TextColor3=Color3.fromRGB(27,42,53)
+r.BackgroundColor3=Color3.fromRGB(160,160,160)
+r.Parent=l
+local function S()p.Text=tostring(g)end
+o.MouseButton1Click:Connect(function()g=math.clamp(g-1,1,500000)S()end)
+q.MouseButton1Click:Connect(function()g=math.clamp(g+1,1,500000)S()end)
+p.FocusLost:Connect(function()local T=tonumber(p.Text)if T then g=math.clamp(T,0.001,500000)end S()end)
+r.MouseButton1Click:Connect(function()i=not i r.Text=str({67,97,109,101,114,97,32,70,111,108,108,111,119,58,32})..(i and str({79,78}) or str({79,70,70}))end)
+end
+D()
+R()
+d.CharacterAdded:Connect(function()D()R()end)
