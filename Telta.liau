@@ -1,1 +1,257 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local n={"\099\102\083\121\120\084\119\061";"\075\049\055\089\120\066\099\068\110\089\073\118\077\090\106\069\086\108\061\061";"\120\082\119\061";"\088\115\101\053\075\066\052\051\107\049\077\071\107\089\083\066\118\107\119\061";"\120\106\051\109\075\068\113\117\043\066\073\118\099\049\101\082\074\088\105\061","\099\122\080\103\120\084\119\061";"\077\097\051\052\074\102\077\084\107\068\055\111\099\082\088\097\087\106\083\111";"\051\047\086\052\053\066\110\097\118\115\051\057\051\043\061\061";"\110\122\088\050\120\084\099\055","\088\047\101\050\110\047\088\121\119\068\051\055\077\047\088\104\077\047\088\106\119\043\061\061";"\077\047\067\097\077\049\083\113\120\122\110\061","\099\090\098\073\077\047\118\105","\120\115\101\066\075\114\061\061","\077\115\052\071\087\115\118\076";"\110\090\088\066\120\115\088\066\087\102\051\073\087\122\080\055";"\056\111\108\055\099\081\105\113\056\108\061\061";"\056\108\061\061","","\077\047\101\111\120\047\072\061","\120\082\068\061","\102\098\067\113\120\122\051\055\074\114\061\061","\102\098\067\050\099\102\051\073\077\047\101\111\120\047\072\061";"\056\115\113\102\087\097\110\097\107\047\087\121\077\090\051\072\075\114\061\061";"\107\090\052\109","\087\089\055\066\099\043\061\061","\077\047\105\098\118\115\080\084\086\090\068\071\053\098\072\066\115\108\061\061","\120\047\067\073\099\049\118\066\110\122\055\070\099\071\061\061","\099\084\118\098\087\108\061\061";"\087\090\073\073\110\108\061\061";"\077\047\067\070\077\115\098\111\099\102\119\061","\050\048\071\086\112\112\078\116\118\085\084\097\102\099\047\057\113\102\070\110\086\107\087\043\070\090\051\047\119\099\116\057\114\105\104\067\107\071\066\073\118\107\079\076\054\081\072\067\047\121\101\072\086\100\054\073\120\077\120\115\111\101\070\076\081\118\057\090\068\121\083\122\053\116\097\083\072\070\089\088\111\116\090\088\099\069\103\088\116\106\090\078\083\116\054\105\068\076\085\104\105\114\102\118\079\075\047\079\121\079\097\116\102\101\068\120\057\115\056\052\106\112\047\075\106\070\057\112\081\114\061\061";"\120\104\088\048\099\082\055\115\075\107\068\121\086\098\043\098\110\071\061\061";"\051\090\088\079\051\068\072\097\053\068\083\111\088\049\072\121\086\097\072\061","\099\090\101\050\099\043\061\061";"\110\047\118\073\120\047\071\061";"\056\072\051\089\053\097\116\048\043\106\067\052\074\088\051\076","\088\104\106\052\072\101\055\109\120\090\118\048\115\068\110\069\088\090\087\061","\120\047\088\070";"\110\088\118\083\118\072\050\047\118\106\080\090";"\110\122\101\070\099\047\067\050";"\120\072\067\099\053\082\051\119\086\107\101\122\074\107\077\102","\087\090\067\070\087\090\101\066","\043\122\080\071\043\084\101\081\051\097\088\080\118\089\099\119\088\090\119\061";"\102\098\067\089\087\071\061\061";"\110\084\051\121\075\115\052\089";"\102\098\067\109\099\115\069\061","\053\049\051\066\110\068\077\055\077\114\061\061"}local function I(I)return n[I-(-766077-(-821647))]end for I,t in ipairs({{383649+-383648;169954-169907},{333174-333173,-677920+677955},{896617-896581,358333+-358286}})do while t[-689239+689240]<t[-391874-(-391876)]do n[t[96153-96152]],n[t[371091+-371089]],t[184443-184442],t[-149203-(-149205)]=n[t[-288546-(-288548)]],n[t[917211-917210]],t[-186534+186535]+(993319-993318),t[107606-107604]-(614395+-614394)end end do local I=string.sub local t=type local c=math.floor local Z=table.insert local Y=string.char local F=n local f={M=-642261-(-642290),c=-137924+137949;L=-618859-(-618902),R=76365-76362,Q=-448630+448632,e=-279387+279392;["\055"]=-47781-(-47818),g=-961501-(-961548),D=647214+-647210;x=516634-516607;["\052"]=-732539+732596,r=-986179-(-986179);K=-524768-(-524794),a=285659-285608;V=-696390-(-696402);P=-753787-(-753836);v=79852-79839;l=-508483-(-508515),["\049"]=-212242-(-212249);J=-536469-(-536499);["\047"]=-992060-(-992066);o=-694868+694902,T=-15808+15863,S=-899455-(-899464),N=-132831-(-132890),f=-228017+228040;p=-663975-(-664037);["\054"]=856114-856104;n=-624148-(-624176);E=-485795-(-485851);b=-102484-(-102537);["\048"]=515015-515004,I=-824960-(-824993);["\057"]=518222-518180,X=-960257-(-960278);h=-217835-(-217870);u=-39373+39388,A=-956010-(-956070);q=313581-313540;y=911302-911252;k=764690-764671,O=99598+-99540,G=34513-34465;U=-313583+313614;z=-382331-(-382369);d=-129999-(-130062),t=-54551+54552,Y=500917+-500878;w=1046859-1046851;Z=-1014195-(-1014249);["\043"]=599288-599272;["\050"]=-994011+994056;["\053"]=-113261-(-113279),i=610779+-610739;H=-619661+619681;["\056"]=-714977-(-714991);B=903371+-903319;W=-926731-(-926755);m=-658568+658612,j=279271+-279235,C=-522993+523054,s=187032-187010,F=-35198-(-35244),["\051"]=-878004+878021}local k=string.len local p=table.concat for n=-796584+796585,#F,-952810-(-952811)do local B=F[n]if t(B)=="\115\116\114\105\110\103"then local t=k(B)local b={}local w=-286244-(-286245)local K=607819+-607819 local R=-758764+758764 while w<=t do local n=I(B,w,w)local F=f[n]if F then K=K+F*(236318+-236254)^((-145197+145200)-R)R=R+(-336920+336921)if R==895078+-895074 then R=-149716-(-149716)local n=c(K/(-98103+163639))local I=c((K%(295388-229852))/(973571+-973315))local t=K%(192003-191747)Z(b,Y(n,I,t))K=483610-483610 end elseif n=="\061"then Z(b,Y(c(K/(18711-(-46825)))))if w>=t or I(B,w+(-648051-(-648052)),w+(-313784-(-313785)))~="\061"then Z(b,Y(c((K%(698818+-633282))/(710777-710521))))end break end w=w+(334524-334523)end F[n]=p(b)end end end return(function(n,c,Z,Y,F,f,k,m,t,W,K,g,B,R,b,A,s,v,Q,p,w)K,g,W,R,s,v,t,w,B,b,Q,A,m,p=function(n)for I=270400+-270399,#n,616424+-616423 do B[n[I]]=(-535318-(-535319))+B[n[I]]end if Z then local t=Z(true)local c=F(t)c[I(398375+-342796)],c[I(111058+-55456)],c[I(-1046108+1101712)]=n,R,function()return 603153+3112281 end return t else return Y({},{[I(743583-687981)]=R,[I(176114+-120535)]=n;[I(189769+-134165)]=function()return 3375747-(-339687)end})end end,function(n,I)local c=K(I)local Z=function(Z)return t(n,{Z},I,c)end return Z end,function(n)B[n]=B[n]-(-475098-(-475099))if B[n]==-1014302-(-1014302)then B[n],p[n]=nil,nil end end,function(n)local I,t=-464682-(-464683),n[-378857-(-378858)]while t do B[t],I=B[t]-(1033899+-1033898),I+(-883162+883163)if B[t]==-260221-(-260221)then B[t],p[t]=nil,nil end t=n[I]end end,function(n,I)local c=K(I)local Z=function(Z,Y,F)return t(n,{Z;Y,F},I,c)end return Z end,function(n,I)local c=K(I)local Z=function()return t(n,{},I,c)end return Z end,function(t,Z,Y,F)local r,X,P,x,e,Q,w,j,V,G,B,R,D,h,E,K,y,o,k,d,M,C,S,a,i,L,J,T,N,z,l,H,O,U while t do if t<7692534-242882 then if t<655969+1809176 then if t<-941355+2219496 then if t<78468+634769 then if t<281940-(-364485)then if t<-424280+1001042 then if t<-798075-(-986345)then t=14478978-556108 y=964395+-964393 d=C[y]y=p[S]r=d==y P=r else t=5071267-(-963152)end else l=p[w]P=l t=l and 669070+12539048 or 16906790-797173 end else if t<-606431+1269164 then w=p[Y[-1016095-(-1016096)]]R=810296+-810295 Q=77749-77747 K=w(R,Q)w=-646288+646289 B=K==w t=B and 12849242-(-473950)or-792991+1475227 k=B else w=p[Y[59583+-59581]]t=14334184-1010992 K=p[Y[173194+-173191]]B=w==K k=B end end else if t<1651544-533644 then if t<17188-(-837495)then t=6216955-(-596053)else X=I(-639682+695259)J=n[X]X=I(-854853-(-910425))t=228753+7471971 L=J[X]j=L end else if t<1816437-595029 then N=-1013324+1013327 j=b()G=I(-725960-(-781576))L=25583-25518 p[j]=k t=p[i]k=t(N,L)N=b()p[N]=k T=A(106026+4256856,{})t=-914958+914958 X=I(-380845-(-436438))L=t t=407795-407795 k=n[X]J=t X={k(T)}t={c(X)}k=594162-594160 X=t t=X[k]T=t k=I(-32480+88068)t=n[k]V=p[K]H=n[G]G=H(T)H=I(-843931-(-899505))h=V(G,H)V={h()}k=t(c(V))V=b()p[V]=k h=p[N]H=h k=279748+-279747 h=-370315-(-370316)G=h h=-781506+781506 t=7218673-(-929009)o=G<h h=k-G else V=#X t=300079+12746855 o=252208+-252208 T=V==o end end end else if t<934852-(-799559)then if t<742699+939735 then if t<1182935-(-128956)then if t<1260955-(-37537)then t=true t=t and 10826898-61551 or 7176966-366064 else j=-975098+975353 t=p[Y[-251203+251204]]e=293214-293214 i=t(e,j)w=K B[w]=i t=-958051+17560451 w=nil end else i=I(-894199+949770)U=k J=I(-82334+137911)e=I(748896+-693319)k=n[i]i=I(312805+-257207)t=k[i]i=b()p[i]=t k=n[e]e=I(399279+-343679)t=k[e]L=n[J]e=t j=L N=t t=L and 2023187-980506 or 7461765-(-238959)end else if t<-911976+2635285 then S=W(S)E=W(E)M=W(M)x=W(x)z=W(z)t=-505568+8653250 C=nil a=W(a)else i=nil R=nil t=898958+5135461 U=nil end end else if t<91472+1814031 then if t<-213407+1996557 then l=t y=-252166+252167 d=C[y]y=false r=d==y t=r and-558049+718400 or 426350+13496520 P=r else V=V+x z=not a T=V<=o T=z and T z=V>=o z=a and z T=z or T z=6399181-260757 t=T and z T=433969-(-843603)t=t or T end else if t<893149+1189362 then t=-551246+1843240 else K=340548-340374 w=p[Y[567529+-567526]]B=w*K t=671148+15531280 w=369579+-369322 k=B%w p[Y[-946011+946014]]=k end end end end else if t<5755956-591444 then if t<490316+3826596 then if t<-883537+3958114 then if t<3194530-304233 then if t<1974357-(-862336)then V=b()U=nil E=I(-404022+459601)T={}C=I(472520-416940)R=nil t=n[I(194369+-138785)]p[V]=T X=nil a=I(1027002+-971429)T=b()z={}L=nil r=nil o=A(-884974+5333949,{V,j,N;Q})x=b()p[T]=o o={}i=nil p[x]=o o=n[a]S=p[x]M={[E]=S,[C]=r}a=o(z,M)w=a o=s(493804+13496201,{x,V,J,j;N,T})N=W(N)j=W(j)i=I(-391949-(-447541))N=I(546570-490981)V=W(V)J=W(J)x=W(x)K=o e=nil T=W(T)Q=W(Q)k={}Q=I(143378+-87793)R=n[Q]L=16255118939849-31032 U=n[i]j=K(N,L)K=nil e=w[j]j=I(-314699+370304)j=U[j]i={j(U,e)}Q=R(c(i))w=nil R=Q()else K=358510-358478 j=823141-823139 w=p[Y[969383-969380]]B=w%K R=p[Y[1001888-1001884]]i=p[Y[546111+-546109]]T=p[Y[-92407+92410]]L=138659+-138646 X=T-B T=-450513-(-450545)J=X/T N=L-J e=j^N U=i/e Q=R(U)R=-693149+4295660445 K=Q%R t=915131+3377673 e=210737-210736 Q=-203920-(-203922)R=Q^B w=K/R R=p[Y[-402390-(-402394)]]i=w%e e=862091+4294105205 U=i*e Q=R(U)R=p[Y[513327+-513323]]U=R(w)K=Q+U Q=-296968-(-362504)R=K%Q B=nil i=-249645+315181 L=-404036+404292 U=K-R Q=U/i i=-514946-(-515202)U=R%i e=R-U R=nil j=-389717+389973 i=e/j j=170385-170129 e=Q%j K=nil N=Q-e j=N/L Q=nil w=nil N={U;i;e,j}j=nil U=nil p[Y[-302127+302128]]=N i=nil e=nil end else t={}K=p[Y[-393091+393100]]w=-610286+610287 R=K B=t t=-309207+16911607 K=-785703-(-785704)Q=K K=-371960+371960 U=Q<K K=w-Q end else if t<-248750+3566816 then t=true w=b()Q=b()i=I(-555626+611219)B=Z R=b()e=m(16606697-45939,{Q})p[w]=t K=I(693800+-638197)k=n[K]K=I(-581707+637324)t=k[K]K=b()p[K]=t t=g(11760456-520186,{})p[R]=t t=false p[Q]=t U=n[i]i=U(e)t=i and 4776712-(-366119)or 195470+1180991 k=i else K=I(1002820+-947243)t=n[I(-989595-(-1045202))]w=n[K]K=I(66361+-10747)B=w[K]K=p[Y[-955823-(-955824)]]w={B(K)}k={c(w)}end end else if t<833349+3557984 then if t<-807058+5125061 then t=-110928+8036888 e=N G=I(787892+-732289)H=n[G]G=I(-66390+121973)h=H[G]H=h(B,e)h=p[Y[-43345+43351]]G=h()V=H+G T=V+U V=-1008671-(-1008927)e=nil X=T%V U=X V=K[w]G=301428-301427 H=U+G h=R[H]T=V..h K[w]=T else K=14156781-(-391780)w=I(614420+-558808)k=8583765-(-751542)B=w^K t=k-B B=t k=I(399653-344040)t=k/B k={t}t=n[I(971942-916361)]end else if t<4683978-(-249380)then B=p[Y[308213+-308212]]k=#B B=209993-209993 t=k==B t=t and 373396+5063684 or 3409733-(-883071)else U=p[Q]t=385786-(-990675)k=U end end end else if t<-54059+6184435 then if t<-592640+6060269 then if t<4361928-(-1004807)then if t<10023+5320643 then t=12931390-(-736362)else j=A(9327382-(-43171),{})e=I(914524-858931)k=I(598867+-543279)R=I(-915314+970930)t=n[k]B=p[Y[1046230-1046226]]K=n[R]i=n[e]e={i(j)}U={c(e)}i=653905-653903 Q=U[i]R=K(Q)K=I(-937919-(-993493))w=B(R,K)B={w()}k=t(c(B))w=p[Y[584433-584428]]B=k k=w t=w and 16358533-409268 or 11648131-(-821542)end else K=391245-391196 w=p[Y[-1037843-(-1037845)]]B=w*K w=13371770423781-(-364140)k=B+w B=-709800+35184372798632 t=k%B p[Y[-360649-(-360651)]]=t B=p[Y[-82328+82331]]w=520122-520121 k=B~=w t=-1037347+3501493 end else if t<5960486-244329 then t=v(5889566-716979,{R})H={t()}t=n[I(918881-863290)]k={c(H)}else t=n[I(154059-98460)]k={w}end end else if t<6912142-258891 then if t<-364700+6639154 then T=V t=-227502+2119042 z=T X[T]=z T=nil else t=n[I(-399180+454789)]k={}end else if t<7211782-399615 then t=n[I(-87081+142671)]k={}else L=nil e=nil e=I(-589329-(-644906))w=W(w)K=W(K)w=nil J=nil N=W(N)V=W(V)j=W(j)i=W(i)R=W(R)U=nil V=356814+-356558 T=nil X=nil K=nil T=527163-527162 N=b()j=I(-241360+296963)Q=W(Q)X={}U=I(572971-517400)Q=n[U]U=I(356461-300850)R=Q[U]Q=b()L={}p[Q]=R i=I(340695-285124)J=b()U=n[i]i=I(-723053+778651)R=U[i]i=n[e]o=V e=I(-947548+1003162)U=i[e]e=n[j]t=986768+904772 j=I(-491705-(-547292))i=e[j]j=b()e=-795581-(-795581)p[j]=e e=-828905+828907 p[N]=e p[J]=L e={}L=-827797+827797 V=327684+-327683 x=V V=973230-973230 a=x<V V=T-x end end end end end else if t<-142099+13451285 then if t<9545149-147837 then if t<707269+7422303 then if t<8866787-971465 then if t<8503156-787890 then if t<6996274-(-585092)then B=I(920665+-865059)t=n[B]K=635138-635138 w=p[Y[67859-67851]]B=t(w,K)t=3942427-919945 else k=j t=N t=j and 1836409-716370 or-1003944+15327929 end else o=-110826+110826 V=#X T=V==o t=T and 3255080-625760 or-991396+14038330 end else if t<713419+7248359 then N=N+L X=not J e=N<=j e=X and e X=N>=j X=J and X e=X or e X=936272+3380891 t=e and X e=2463785-734905 t=t or e else k=I(79871+-24263)B=I(-11298+66876)t=n[k]k=n[B]B=I(567164-511586)n[B]=t B=I(742932-687324)t=-43027+13710779 n[B]=k B=p[Y[-627055+627056]]w=B()end end else if t<287158+8534529 then if t<-615654+8907413 then h=h+G k=h<=H x=not o k=x and k x=h>=H x=o and x k=x or k x=-1040207+16955954 t=k and x k=11426552-(-312332)t=t or k else t=730684-(-561310)end else if t<9363751-65424 then t=p[Y[974559+-974552]]t=t and-293595+7774203 or 3566469-543987 else k=11298203-112914 w=I(-37967+93564)K=603660+7334950 B=w^K t=k-B k=I(926034+-870452)B=t t=k/B k={t}t=n[I(-444513-(-500123))]end end end else if t<-112403+11723314 then if t<-432242+11532759 then if t<10247638-529519 then if t<8989131-(-589438)then t=true t=-250329+5914410 else t=969754+15260847 H=L==J h=H end else t=p[i]G=52785+-52784 o=26175-26169 H=t(G,o)o=I(692757-637149)t=I(-313414+369022)n[t]=H G=n[o]o=-913064-(-913066)t=G>o t=t and 14184676-(-745731)or-931243+12356497 end else if t<739543+10581075 then k=I(-907116+962722)t=n[k]B=I(755596+-699981)k=t(B)k={}t=n[I(-697535+753136)]else o=I(-292944+348552)t=n[o]o=I(-569616-(-625194))n[o]=t t=40410+1948013 end end else if t<112239+12403063 then if t<454073+11495228 then H=p[w]t=H and-753933+10369259 or-749131+16979732 h=H else p[Y[284185-284180]]=k t=9995811-1009152 B=nil end else if t<14140942-984107 then o=#X z=-941584-(-941585)V=709102+-709101 t=-355746+8076593 T=R(V,o)V=U(X,T)o=p[J]a=V-z x=i(a)T=nil o[V]=x V=nil else r=663938+-663937 t=-1032043+17141660 l=C[r]P=l end end end end else if t<-213614+15188138 then if t<13413576-(-539625)then if t<13995927-326535 then if t<13981371-495652 then if t<12527500-(-818592)then t=k and 4325905-(-1027086)or-549918+9536577 else p[w]=k t=627448+1056788 end else t=true t=t and 223538+7826635 or 432975+6180154 end else if t<14699183-784239 then t=true t=t and-152636+8556859 or-740626+6404707 else t=l t=14489630-1013660 k=P end end else if t<14834540-398123 then if t<14280677-186025 then w=Z[-926213-(-926215)]B=Z[990570-990569]t=p[Y[60781+-60780]]K=t t=K[w]t=t and 1367442-916134 or 14786129-(-169826)else N=I(249955+-194383)t=-920390+2040429 j=n[N]k=j end else if t<-277204+15228335 then G=I(-989421+1045037)t=n[G]x=I(264852+-209274)o=n[x]G=t(o)t=I(1063291-1007683)n[t]=G t=3036508-1048085 else t={}p[Y[1038681-1038679]]=t i=-660851-(-661106)k=p[Y[-681639-(-681642)]]R=k Q=35184372880356-791524 k=w%Q p[Y[-518588+518592]]=k U=w%i i=-928553+928555 Q=U+i p[Y[235333-235328]]=Q e=I(405471-349868)i=n[e]e=I(803159+-747563)U=i[e]N=869967+-869966 i=U(B)L=N e=-58057+58058 N=585542-585542 J=L<N U=I(860271-804695)t=228234+7697726 K[w]=U U=-647266-(-647408)j=i N=e-L end end end else if t<-546224+16686100 then if t<15711168-(-221881)then if t<459032+15197348 then if t<-50367+15671289 then P=p[w]t=P and 1552035-(-189479)or-117618+13593588 k=P else t=p[Y[-75501+75511]]w=p[Y[790884-790873]]B[t]=w t=p[Y[-163107-(-163119)]]w={t(B)}t=n[I(999775-944180)]k={c(w)}end else O=946233+-936233 a=I(-543990-(-599561))x=b()p[x]=h r=I(1013208+-957592)k=n[a]z=1037606+-1037506 a=I(-30211+85809)t=k[a]a=970779+-970778 k=t(a,z)M=-39464-(-39719)a=b()z=-63541+63541 p[a]=k t=p[i]k=t(z,M)C=-810668-(-810670)z=b()p[z]=k M=522226-522225 t=p[i]E=p[a]S=-998917+998918 k=t(M,E)M=b()p[M]=k k=p[i]E=k(S,C)C=I(-456942-(-512517))k=84516-84515 t=E==k E=b()p[E]=t k=I(-445601-(-501175))l=n[r]D=239974+-239974 d=p[i]y={d(D,O)}r=l(c(y))l=I(459931+-404356)P=r..l t=I(-473130+528716)t=T[t]S=C..P t=t(T,k,S)C=I(139855+-84262)S=b()p[S]=t k=n[C]P=m(75362+582070,{i;x,N;K,w,V,E;S,a;M;z;j})C={k(P)}t={c(C)}C=t t=p[E]t=t and 139653+15388257 or 1282945-645896 end else if t<309948+15702573 then K=p[Y[583044-583038]]w=K==B t=-541422+13011095 k=w else p[w]=P y=p[M]D=574227-574226 d=y+D r=C[d]l=L+r r=467091-466835 t=l%r L=t d=p[z]r=J+d d=357621+-357365 t=-748870+2433106 l=r%d J=l end end else if t<-553193+16942345 then if t<16650469-427168 then w=p[Y[664044+-664041]]K=-888683-(-888684)B=w~=K t=B and 3098097-251274 or-99133+2563279 else p[w]=h t=p[w]t=t and 341037+416753 or 9880985-440476 end else if t<641454+15929511 then t=true p[Y[65406+-65405]]=t k={}t=n[I(844040-788446)]else K=K+Q i=not U w=K<=R w=i and w i=K>=R i=U and i w=i or w i=1625608-321202 t=w and i w=14776515-(-851775)t=t or w end end end end end end end t=#F return c(k)end,-326369-(-326369),{},function()w=(503979+-503978)+w B[w]=-487541+487542 return w end,function(n,I)local c=K(I)local Z=function(...)return t(n,{...},I,c)end return Z end,function(n,I)local c=K(I)local Z=function(Z,Y,F,f,k)return t(n,{Z,Y;F;f;k},I,c)end return Z end,function(n,I)local c=K(I)local Z=function(Z,Y,F,f)return t(n,{Z,Y;F,f},I,c)end return Z end,{}return(Q(-1015115+4142164,{}))(c(k))end)(getfenv and getfenv()or _ENV,unpack or table[I(-762808-(-818380))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+
+local player = Players.LocalPlayer
+local camera = workspace.CurrentCamera
+
+local movingPart = nil
+local followDistance = 10
+local followSpeed = 200
+local useCamera = false
+local lastPosition = nil
+
+local gui, frame, nameLabel, collapseButton, decreaseButton, numberBox, increaseButton, cameraButton
+local collapsed = false
+
+local selectionBox = Instance.new("SelectionBox")
+selectionBox.Color3 = Color3.fromRGB(0, 255, 0)
+selectionBox.LineThickness = 0.08
+selectionBox.SurfaceTransparency = 1
+selectionBox.Adornee = nil
+selectionBox.Parent = game:GetService("CoreGui") 
+selectionBox.Name = "TelSelBox"
+
+local function stopMoving()
+    movingPart = nil
+    selectionBox.Adornee = nil
+end
+
+local function movePartVelocity(part, targetPos, deltaTime)
+    if not part or part.Anchored then return end
+    local direction = (targetPos - part.Position)
+    local velocity = direction * 15
+    if velocity.Magnitude > followSpeed then
+        velocity = velocity.Unit * followSpeed
+    end
+    part.AssemblyLinearVelocity = velocity
+end
+
+local function startMoving(part)
+    movingPart = part
+    lastPosition = part.Position
+    selectionBox.Adornee = part
+end
+
+local function togglePartMove(part)
+    if movingPart == part then
+        stopMoving()
+    elseif not part.Anchored then
+        stopMoving()
+        startMoving(part)
+    end
+end
+
+local function createTool()
+    if player.Backpack:FindFirstChild("TelTool") then return end
+    local tool = Instance.new("Tool")
+    tool.Name = "Telekinesis"
+    tool.RequiresHandle = false
+    tool.CanBeDropped = true
+    tool.Parent = player.Backpack
+
+    tool.Equipped:Connect(function(mouse)
+        if mouse then
+            mouse.Button1Down:Connect(function()
+                local target = mouse.Target
+                if target and target:IsA("BasePart") and not target.Anchored then
+                    togglePartMove(target)
+                end
+            end)
+        end
+
+        local touchConnection
+        touchConnection = UserInputService.TouchTapInWorld:Connect(function(pos, processed)
+            if processed then return end
+            local ray = camera:ScreenPointToRay(pos.X, pos.Y)
+            local params = RaycastParams.new()
+            params.FilterDescendantsInstances = {player.Character}
+            params.FilterType = Enum.RaycastFilterType.Blacklist
+            local result = workspace:Raycast(ray.Origin, ray.Direction * 1000, params)
+            if result and result.Instance and result.Instance:IsA("BasePart") and not result.Instance.Anchored then
+                togglePartMove(result.Instance)
+            end
+        end)
+
+        tool.Unequipped:Connect(function()
+            stopMoving()
+            if touchConnection then
+                touchConnection:Disconnect()
+                touchConnection = nil
+            end
+        end)
+    end)
+end
+
+RunService.Heartbeat:Connect(function(deltaTime)
+    if movingPart then
+        local char = player.Character
+        local root = char and char:FindFirstChild("HumanoidRootPart")
+        if not (root and movingPart and movingPart.Parent and not movingPart.Anchored) then
+            stopMoving()
+            return
+        end
+
+        local targetPosition
+        if useCamera then
+            targetPosition = camera.CFrame.Position + camera.CFrame.LookVector * followDistance
+        else
+            targetPosition = root.Position + root.CFrame.LookVector * followDistance
+        end
+
+        movePartVelocity(movingPart, targetPosition, deltaTime)
+
+        if (movingPart.Position - lastPosition).Magnitude > 100 then
+            stopMoving()
+            return
+        end
+        lastPosition = movingPart.Position
+    end
+end)
+
+local function createGUI()
+    if gui then gui:Destroy() end
+
+    gui = Instance.new("ScreenGui")
+    gui.Name = "TelGUI"
+    gui.ResetOnSpawn = false
+    gui.DisplayOrder = 50000
+    gui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+    gui.Parent = game:GetService("CoreGui") 
+    
+
+    frame = Instance.new("Frame")
+    frame.Size = UDim2.new(0.24, 0, 0.3, 0)
+    frame.Position = UDim2.new(0.02, 0, 0.1, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(127, 127, 127)
+    frame.BackgroundTransparency = 0.05
+    frame.BorderColor3 = Color3.fromRGB(27, 42, 53)
+    frame.BorderSizePixel = 1
+    frame.Active = true
+    frame.Draggable = true
+    frame.Parent = gui
+
+    nameLabel = Instance.new("TextLabel")
+    nameLabel.Size = UDim2.new(1, 0, 0.2, 0)
+    nameLabel.Position = UDim2.new(0, 0, 0, 0)
+    nameLabel.BackgroundColor3 = Color3.fromRGB(162, 162, 162)
+    nameLabel.Text = "Telekinesis By Ano"
+    nameLabel.TextScaled = true
+    nameLabel.Font = Enum.Font.Legacy
+    nameLabel.TextColor3 = Color3.fromRGB(27, 42, 53)
+    nameLabel.Parent = frame
+
+    collapseButton = Instance.new("TextButton")
+    collapseButton.Size = UDim2.new(0.12, 0, 1, 0)
+    collapseButton.Position = UDim2.new(0.88, 0, 0, 0)
+    collapseButton.Text = "V"
+    collapseButton.TextScaled = true
+    collapseButton.Font = Enum.Font.Legacy
+    collapseButton.TextColor3 = Color3.fromRGB(27, 42, 53)
+    collapseButton.BackgroundColor3 = Color3.fromRGB(150, 150, 150)
+    collapseButton.Parent = nameLabel
+
+    collapseButton.MouseButton1Click:Connect(function()
+        collapsed = not collapsed
+        for _, child in ipairs(frame:GetChildren()) do
+            if child ~= nameLabel then
+                child.Visible = not collapsed
+            end
+        end
+        if collapsed then
+            frame.Size = UDim2.new(0.24, 0, 0.06, 0)
+            nameLabel.Size = UDim2.new(1, 0, 1, 0)
+            frame.BackgroundTransparency = 1
+            collapseButton.Text = "<"
+        else
+            frame.Size = UDim2.new(0.24, 0, 0.3, 0)
+            nameLabel.Size = UDim2.new(1, 0, 0.2, 0)
+            frame.BackgroundTransparency = 0.05
+            collapseButton.Text = "V"
+        end
+    end)
+
+    decreaseButton = Instance.new("TextButton")
+    decreaseButton.Size = UDim2.new(0.18, 0, 0.3, 0)
+    decreaseButton.Position = UDim2.new(0.08, 0, 0.25, 0)
+    decreaseButton.Text = "-"
+    decreaseButton.TextScaled = true
+    decreaseButton.Font = Enum.Font.Legacy
+    decreaseButton.TextColor3 = Color3.fromRGB(27, 42, 53)
+    decreaseButton.BackgroundColor3 = Color3.fromRGB(160, 160, 160)
+    decreaseButton.Parent = frame
+
+    numberBox = Instance.new("TextBox")
+    numberBox.Size = UDim2.new(0.45, 0, 0.3, 0)
+    numberBox.Position = UDim2.new(0.28, 0, 0.25, 0)
+    numberBox.Text = tostring(followDistance)
+    numberBox.Font = Enum.Font.Legacy
+    numberBox.TextColor3 = Color3.fromRGB(27, 42, 53)
+    numberBox.BackgroundColor3 = Color3.fromRGB(159, 159, 159)
+    numberBox.ClearTextOnFocus = true
+    numberBox.Parent = frame
+
+    increaseButton = Instance.new("TextButton")
+    increaseButton.Size = UDim2.new(0.18, 0, 0.3, 0)
+    increaseButton.Position = UDim2.new(0.75, 0, 0.25, 0)
+    increaseButton.Text = "+"
+    increaseButton.TextScaled = true
+    increaseButton.Font = Enum.Font.Legacy
+    increaseButton.TextColor3 = Color3.fromRGB(27, 42, 53)
+    increaseButton.BackgroundColor3 = Color3.fromRGB(160, 160, 160)
+    increaseButton.Parent = frame
+
+    cameraButton = Instance.new("TextButton")
+    cameraButton.Size = UDim2.new(0.85, 0, 0.3, 0)
+    cameraButton.Position = UDim2.new(0.08, 0, 0.6, 0)
+    cameraButton.Text = "Camera Follow: OFF"
+    cameraButton.TextScaled = true
+    cameraButton.Font = Enum.Font.Legacy
+    cameraButton.TextColor3 = Color3.fromRGB(27, 42, 53)
+    cameraButton.BackgroundColor3 = Color3.fromRGB(160, 160, 160)
+    cameraButton.Parent = frame
+
+    local function updateNumberBox()
+        numberBox.Text = tostring(followDistance)
+    end
+
+    decreaseButton.MouseButton1Click:Connect(function()
+        followDistance = math.clamp(followDistance - 1, 1, 500000)
+        updateNumberBox()
+    end)
+
+    increaseButton.MouseButton1Click:Connect(function()
+        followDistance = math.clamp(followDistance + 1, 1, 500000)
+        updateNumberBox()
+    end)
+
+    numberBox.FocusLost:Connect(function()
+        local num = tonumber(numberBox.Text)
+        if num then
+            followDistance = math.clamp(num, 0.001, 500000)
+        end
+        updateNumberBox()
+    end)
+
+    cameraButton.MouseButton1Click:Connect(function()
+        useCamera = not useCamera
+        cameraButton.Text = "Camera Follow: " .. (useCamera and "ON" or "OFF")
+    end)
+end
+
+createTool()
+createGUI()
+player.CharacterAdded:Connect(function()
+    createTool()
+    createGUI()
+end)
