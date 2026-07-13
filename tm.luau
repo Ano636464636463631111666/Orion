@@ -1,4 +1,5 @@
-local debugp = false
+local debugp = true
+print("ran")
 local function dprint(...) if debugp then print("[DEBUG]", ...) end end
 
 local Players = game:GetService("Players")
