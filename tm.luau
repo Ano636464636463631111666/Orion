@@ -1,4 +1,4 @@
-local debugp = true
+local debugp = false
 _G.DisableToolLimit = _G.DisableToolLimit or false
 _G.FullPlace = _G.FullPlace or false
 
