@@ -410,9 +410,9 @@ local function setupBuildingTool(tool)
         local v52_b = LocalPlayer.PlayerGui.BuildGui.InventoryFrame.ScrollingFrame.BlocksFrame[v3.Name]
         local AmountText = v52_b.AmountText
         local MaxText = v52_b.MaxText
-        
+        # yoyoyoyoyoyoyyoyoyoyoyoyoyoyyoyoyoyoyoyoyoyoyoyoyyoyoyo
         if (tonumber(AmountText.Text) or 0) <= 0 and not _G.DisableToolLimit then
-            local v6_s = tool:FindFirstChild("ClickSound") and tool.ClickSound:Clone() or script:FindFirstChild("ClickSound") and script.ClickSound:Clone()
+            local v6_s = tool:FindFirstChild("ClickSound") and tool.ClickSound:Clone() or LocalScript:FindFirstChild("ClickSound") and LocalScript.ClickSound:Clone()
             if v6_s then
                 v6_s.Parent = v3.PrimaryPart
                 Debris:AddItem(v6_s, 0.3)
